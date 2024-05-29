@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Trainee",
+      "organisation": "Capgemini",
+      "startDate": "March, 2022",
+      "endDate": "July",
+      "experiences": ["AIML"],
+      "imageSrc": "capgeminiImg.webp"
+    },
+    {
+      "role": "Trainee",
+      "organisation": "DXC technology",
+      "startDate": "Aug, 2023",
+      "endDate": "sept, 2023",
+      "experiences": ["Networking and ITIL"],
+      "imageSrc": "dxcImg.webp"
+
+    }
+    
+  ]

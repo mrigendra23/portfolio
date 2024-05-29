@@ -1,0 +1,27 @@
+[
+    
+    {
+    "title": "Project A",
+    "imageSrc": "projectImg.png",
+    "description": "This is a project made to learn how to fetch data from API.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "Demo" : [],
+   "source": "https://github.com/mrigendra23/weather-app.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projectImg.png",
+    "description": "This is a project made to learn the latest languages React by building an app.",
+    "skills": ["React", "HTML", "CSS", "JAVASCRIPT"],
+    "Demo" : [],
+    "source": "https://github.com/mrigendra23/DiceGame-react.git"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projectImg.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "JAVASCRIPT", "HTML"],
+    "Demo" : [],
+    "source": ""
+  }
+]
